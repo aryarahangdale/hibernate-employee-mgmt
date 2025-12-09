@@ -1,0 +1,5 @@
+com\employee\HibernateEmployeeMgmtApplication.class
+com\employee\controller\EmployeeController.class
+com\employee\entity\Employee.class
+com\employee\repository\EmployeeRepository.class
+com\employee\service\EmployeeService.class
